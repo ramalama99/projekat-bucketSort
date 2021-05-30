@@ -26,7 +26,7 @@ function bucketSort!(A)
             end
         end
     end
-    return B                                    #visak, tu je samo kao provera da li se dobro sortiralo posle insertionSorta
+    return B                                    #visak, tu je samo kao provera da li se dobro sortiralo posle insertionSorta 
 end
 
 function insertionSort!(A)                      #obican insertionSort sa jednom izmenom:
