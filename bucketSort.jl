@@ -42,4 +42,3 @@ function insertionSort!(A)                      #obican insertionSort sa jednom 
         end
     end
 end
-
