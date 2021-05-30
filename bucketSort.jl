@@ -1,6 +1,3 @@
-#push!(push!(Array{Int, 1}[], a), b)
-#push!(Array{Int, 1}[], A[i])
-
 function bucketSort!(A)
     
     n = length(A)                               #duzina niza koji sortiramo
